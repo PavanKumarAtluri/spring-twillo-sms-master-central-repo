@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring-Twillo-SMS
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Pavan
+Implementation-Vendor-Id: com.dugu.acc.dev
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/Spring-Twill
+ o-SMS/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
